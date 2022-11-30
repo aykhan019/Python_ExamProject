@@ -1,0 +1,20 @@
+Receipt :
+
+Type of gasoline : AI92.
+Price of gasoline : 1$ per liter.
+Purchased : 10.0 liters.
+
+Amount to pay for gasoline is 10 dollars.
+
+Food name : Cheeseburger
+Number of purchased cheeseburgers is 4
+Drinking name : Fanta
+Number of purchased Fantas is 2
+
+Total amount of goods is 8.8 dollars.
+
+Type of gasoline : Disel.
+Price of gasoline : 0.8$ per liter.
+Purchased : 20.0 dollars of Disel.
+
+Amount of gasoline is 10 liters.
