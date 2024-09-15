@@ -1,7 +1,7 @@
 # Python Exam Project - Gas Station
 
 ## Overview
-This project is a Python-based simulation of a gas station management system. It demonstrates the use of object-oriented programming (OOP) concepts for handling fuel inventory, customer transactions, and report generation.
+This project is a Python-based simulation of a gas station management system; it showcases a range of functionalities related to managing fuel inventory, processing customer transactions, and generating detailed reports on fuel usage and sales. The system is designed to be efficient and intuitive, offering a comprehensive way to manage everyday gas station operations through a command-line interface.
 
 ## Features
 - Manage different types of fuel and stock levels.
