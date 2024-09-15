@@ -10,7 +10,6 @@ This project is a Python-based simulation of a gas station management system; it
 
 ## Technologies Used
 - Python 3.x
-- Object-Oriented Programming (OOP)
 
 ## Installation
 1. Clone the repository:
